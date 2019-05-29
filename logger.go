@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"gopkg.in/stack.v1"
+	"gopkg.in/go-stack/stack.v1"
 )
 
 const defaultStackDepth = 2
